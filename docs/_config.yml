@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dev's Principles For Building Software
+title: Dev's Principles
+subtitle: for building Software
 email: devs.principles@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This site is about building software applications with rules ans principles in mind. 
-  Good practices, design patterns, code examples and a lot of tips will be added to every subject. 
-  All phrases from IT will be described with extra references to follow. 
-  I am sure that everybody despite the experience will find something interesting here to read.
+description: >- # this means to ignore newlines until "baseurl:" 
+  Looking for good practices? Design patterns? Code examples? 
+  Solutions to problems? Tips for building software applications?
+  It is all here!
   Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
