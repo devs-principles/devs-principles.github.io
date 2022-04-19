@@ -3,7 +3,7 @@
 
 ```shell
 $ bundle install 
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve --drafts
 Configuration file: ../docs/_config.yml
             Source: ../docs
        Destination: ../docs/_site
