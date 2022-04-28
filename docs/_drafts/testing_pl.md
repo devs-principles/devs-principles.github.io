@@ -1,4 +1,4 @@
-**Testowanie**
+**Filar 1 - Testowanie**
 
 ***Wstęp***
 
@@ -27,7 +27,7 @@ Swoją przygodę w IT zacząłem od skrupulatnego sprawdzania aplikacji tworzony
 Dlatego, gdy zmieniłem perspektywę i zacząłem pisać kod, który następnie był weryfikowany, pewne wyobrażenia o tym, jak powinno się tworzyć oprogramowanie, zaczęły ulegać zmianie.
 Okazało się, że pisanie testów bliżej kodu (testy jednostkowe) nie zawsze ma miejsce. I tu najczęściej padały slogany typu: "Brakło czasu na testy.", "Testy nie zostały wzięte pod uwagę podczas estymacji." i moje ulubione "Skończyłem implementację, więc teraz może dopiszę kilka testów."
 Na początku kompletnie tego nie rozumiałem... w końcu, po co było rozmawiać o piramidzie testów i o tym jak ważne jest wczesne testowanie kodu... W rzeczywistości wszystko było odwrócone do góry nogami.
-Co w zasadzie to wszystko potwierdzało to, dlaczego w zespole QA zawsze było dużo pracy i panowała nieufność wobec kolegów tworzących kod.
+To wszystko tylko wyjaśniało to, dlaczego w zespole QA zawsze było dużo pracy i panowała nieufność wobec kolegów tworzących kod.
 
 Więc co z tą perspektywą jest nie tak? W końcu obie strony QA i DEV chcą osiągnąć ten sam efekt, tj. dostarczyć oprogramowania, które spełnia oczekiwania biznesu.
 
@@ -50,12 +50,12 @@ Należy też dodać, że takie pisanie testów to kolejne linijki kodu + złożo
 
 ****Czynnik ludzki****
 
-Inną sprawą jest też to, że u ludzi pojawia się lenistwo oraz bagatelizowanie tematu. Dlatego nie dziwi mnie już dzisiaj stwierdzenie w stylu: "Takiego testu nie ma sensu pisać, bo to sprawdzi QA"... na co kolega tester w danym dniu może zareagować podobną postawą, co może prowadzić do wprowadzenia problemu w aplikacji. 
+Inną sprawą jest też to, że u ludzi pojawia się lenistwo oraz bagatelizowanie tematu. Dlatego nie zaskakują mnie już dzisiaj hasła w stylu: "Takiego testu nie ma sensu pisać, bo to sprawdzi QA"... na co kolega tester w danym dniu może zareagować podobną postawą, co może prowadzić do wprowadzenia problemu w aplikacji. 
 
 ***Czy problem w ogóle istnieje?***
 
 Można się zastanowić czy mamy tu do czynienia z problemem, czy może temat jest niepotrzebnie wyolbrzymiony? W końcu ostatecznie produkt powstaje, jest przetestowany 
-przez zespół testerów. Na pozostałe problemy (często zgłaszane już przez samych użytkowników) zakłada się bug'a, którego w końcu się naprawi. 
+przez zespół testerów. Na pozostałe problemy (często zgłaszane już przez samych użytkowników) zakłada się bug'a, którego w końcu się zostanie naprawiony. 
 Każdy ma pracę i wszystko się kręci. 
 Prawda?
 
@@ -75,6 +75,8 @@ Uważam, że zdecydowana większość omawianych tu problemów wynika z powierzc
 Jeżeli czytasz ten wpis, to zakładam, że tak jak ja pragniesz jednak pracować inaczej! Pracować jak prawdziwy profesjonalista! Dlatego chcesz ulepszyć swoje rzemiosło. Szukasz pomysłów i sposobu na usprawnienie swojego warsztatu.
 
 W tym i w kolejnych postach postaram się przekonać Cię, jak można pisać kod z którego będziesz dumny!:-)
+
+Kod oparty na pierwszym filarze - TESTOWANIE!
 
 
 
